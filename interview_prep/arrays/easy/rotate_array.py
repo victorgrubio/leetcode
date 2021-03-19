@@ -27,7 +27,7 @@ class Solution:
         """
         return k > 0 and len_nums > 1 and k%len_nums != 0
 
-
+    @staticmethod
     def rotate_1(nums, k):
         """First attempt to solve using a dict
         It was slow and also crashed in hard_test. Check test to see failure.
