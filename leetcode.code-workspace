@@ -1,0 +1,31 @@
+{
+    "folders": [
+    {
+        "name": "root",
+        "path": "."
+    },
+    {
+        "name": "interview_prep",
+        "path": "interview_prep"
+    },
+    {
+        "name": "interview_prep_arrays",
+        "path": "interview_prep/arrays"
+    },
+    {
+        "name": "interview_prep_strings",
+        "path": "interview_prep/strings"
+    },
+    {
+        "name": "aws-graphs",
+        "path": "aws/graphs"
+    },
+    {
+        "name": "aws-graphs-training",
+        "path": "aws/graphs/training"
+    },
+    {
+        "path": "learn/binary_tree"
+    }
+]
+  }
